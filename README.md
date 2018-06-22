@@ -2,7 +2,7 @@
 
 
 
-#Description:\
+#Description:
 
 A web application to perform quiz management. User will be able to switch between different quiz, 
 answering the quiz, get a question pair-wise score analysis, as well as editing and deleting quiz
