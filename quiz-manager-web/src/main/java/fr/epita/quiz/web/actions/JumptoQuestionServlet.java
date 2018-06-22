@@ -18,11 +18,11 @@ import fr.epita.quiz.web.services.QuestionsServices;
  *   </code></pre>
  * </p>
  *
- * @since $${version}
- * @see See also $${link}
- * @author ${user}
+ * @since $${1.0.0}
+ * @see See also $$http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
  *
- * ${tags}
+ * ${spring}
  */
 
 

@@ -15,7 +15,21 @@ import fr.epita.quiz.services.AuthenticationService;
 import fr.epita.quiz.services.QuestionDAO;
 
 /**
- * Servlet implementation class Login
+ * <h3>Description</h3>
+ * <p>class Login with Servlet implementation</p>
+ *
+ * <h3>Usage</h3>
+ * <p>This class should be used as follows:
+ *   <pre><code><form action="login" method="post">
+ * 
+ *   </code></pre>
+ * </p>
+ *
+ * @since $${1.0.0}
+ * @see See also $${http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
+ *
+ * ${servlet}
  */
 
 
@@ -30,7 +44,7 @@ public class Login extends SpringServlet {
 	 * Default constructor.
 	 */
 	public Login() {
-		// TODO Auto-generated constructor stub
+		//
 	}
 
 	/**

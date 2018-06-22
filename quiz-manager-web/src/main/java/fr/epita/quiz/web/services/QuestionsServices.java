@@ -21,7 +21,7 @@ import fr.epita.quiz.services.QuestionOperationsService;
 
 /**
  * <h3>Description</h3>
- * <p>This class allows to get a mcqchoice instance ,question instance
+ * <p>This class allows to realize a mcqchoice instance ,question instance
  * ,send question data to next page
  * </p>
  *
@@ -33,11 +33,11 @@ import fr.epita.quiz.services.QuestionOperationsService;
  *   </code></pre>
  * </p>
  *
- * @since $${version}
- * @see See also $${link}
- * @author ${user}
+ * @since $${1.0.0}
+ * @see See also $${http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
  *
- * ${tags}
+ * ${class, service}
  */
 public class QuestionsServices {
 	@Inject

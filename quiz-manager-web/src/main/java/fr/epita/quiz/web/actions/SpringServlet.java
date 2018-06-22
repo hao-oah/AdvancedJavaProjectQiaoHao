@@ -1,7 +1,7 @@
 /**
- * Ce fichier est la propriété de Thomas BROUSSARD
- * Code application :
- * Composant :
+ * Advanced Java Project 
+ * Code application : Implement springServlet 
+ * Composant : Servlet
  */
 package fr.epita.quiz.web.actions;
 
@@ -12,16 +12,16 @@ import org.springframework.web.context.support.SpringBeanAutowiringSupport;
 
 /**
  * <h3>Description</h3>
- * <p>This class allows to ...</p>
+ * <p>This class allows to implement SpringServelet</p>
  *
  * <h3>Usage</h3>
  * <p>This class should be used as follows:
  *   <pre><code>${type_name} instance = new ${type_name}();</code></pre>
  * </p>
  *
- * @since $${version}
- * @see See also $${link}
- * @author ${user}
+ * @since $${1.0.0}
+ * @see See also $${http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
  *
  * ${tags}
  */

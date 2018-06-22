@@ -2,8 +2,25 @@
     pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
+<!--
+/**
+ * <h3>Description</h3>
+ * <p>Quiz Manger web-app editchoice.jsp</p>
+ *
+ * <h3>Usage</h3>
+ * <p>Display editables for choices
+ * </p>
+ *
+ * @since $${1.0.0}
+ * @see See also $${http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
+ *
+ * ${jsp}
+ */
+-->
 
 <%
+//Panel to edit choices
 //method to get param
 //to get the seleted thie i is choice.id!!
 //int i;

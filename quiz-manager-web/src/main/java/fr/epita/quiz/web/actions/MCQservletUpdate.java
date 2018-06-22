@@ -20,7 +20,7 @@ import fr.epita.quiz.services.QuestionDAO;
 import fr.epita.quiz.web.services.QuestionsServices;
 /**
  * <h3>Description</h3>
- * <p>This class allows to update a choice</p>
+ * <p>This class allows to update a choice using Spring</p>
  *
  * <h3>Usage</h3>
  * <p>This class should be used as follows:
@@ -29,9 +29,9 @@ import fr.epita.quiz.web.services.QuestionsServices;
  *   </code></pre>
  * </p>
  *
- * @since $${version}
- * @see See also $${link}
- * @author ${user}
+ * @since $${1.0.0}
+ * @see See also $${http://thomas-broussard.fr/}
+ * @author ${Qiao & Hao}
  *
  * ${tags}
  */
