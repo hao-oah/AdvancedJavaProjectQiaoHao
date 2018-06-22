@@ -1,4 +1,4 @@
-# Project : Quiz-Manager Advanced Java [ Qiao & Hao ]\
+# Project : Quiz-Manager Advanced Java [ Qiao & Hao ]
 
 
 
